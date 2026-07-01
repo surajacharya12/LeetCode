@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/surajacharya12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/surajacharya12/LeetCode/tree/master/0010-regular-expression-matching) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/surajacharya12/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/surajacharya12/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/surajacharya12/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/surajacharya12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surajacharya12/LeetCode/tree/master/0013-roman-to-integer) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/surajacharya12/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Enumeration
 |  |
 | ------- |
