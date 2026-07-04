@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/surajacharya12/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/surajacharya12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/surajacharya12/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/surajacharya12/LeetCode/tree/master/0016-3sum-closest) |
 | [1732-find-the-highest-altitude](https://github.com/surajacharya12/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/surajacharya12/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/surajacharya12/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/surajacharya12/LeetCode/tree/master/0016-3sum-closest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/surajacharya12/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surajacharya12/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/surajacharya12/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/surajacharya12/LeetCode/tree/master/0016-3sum-closest) |
 ## Counting
 |  |
 | ------- |
